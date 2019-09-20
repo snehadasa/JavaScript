@@ -1,0 +1,1 @@
+fs.wirteFileSync('notes.txt', 'This file was creaated by Node.js!')
